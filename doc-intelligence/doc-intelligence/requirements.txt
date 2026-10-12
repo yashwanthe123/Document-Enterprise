@@ -1,0 +1,6 @@
+pypdf
+scikit-learn
+joblib
+numpy
+reportlab
+pytest
